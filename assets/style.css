@@ -1,0 +1,28 @@
+body {
+    background-color: aquamarine;
+}
+
+
+h1 {
+    font-size: xx-large;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+form {
+    float: right;
+    width: 30%;
+
+}
+label {
+    font-size: x-large;
+    display: block;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+button,
+input[type="submit"] {
+    border-radius: 5px;
+    border-color: crimson;
+    font-size: x-large;
+}
